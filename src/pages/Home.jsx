@@ -41,23 +41,27 @@ export default function Home(params) {
                   .includes(searchTerm().toLowerCase())
               }
             >
-              <Card rounded={true} flat={false}>
-                <img src={game.img} alt={game.title}></img>
-                <h2 class="my-3 font-bold text-center text-xl">{game.title}</h2>
-                <div class="flex">
-                  <For each={game.tags}>
-                    {(tag) => (
-                      <p class="m-3 px-1 rounded bg-pink-400 text-white">
-                        {tag}
-                      </p>
-                    )}
-                  </For>
-                </div>
-                <p>{game.description}</p>
-                <A class="btn" href={"/game/" + game.short}>
-                  More info
-                </A>
-              </Card>
+              <A href={"/game/" + game.short}>
+                <Card rounded={true} flat={false}>
+                  <img src={game.img} alt={game.title}></img>
+                  <h2 class="my-3 font-bold text-center text-xl">
+                    {game.title}
+                  </h2>
+                  <div class="flex">
+                    <For each={game.tags}>
+                      {(tag) => (
+                        <p class="m-3 px-1 rounded bg-pink-400 text-white">
+                          {tag}
+                        </p>
+                      )}
+                    </For>
+                  </div>
+                  <p class="my-2">{game.description}</p>
+                  <A class="btn" href={"/game/" + game.short}>
+                    Play Game
+                  </A>
+                </Card>
+              </A>
             </Show>
           )}
         </For>
