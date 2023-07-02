@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Maze Platform Game",
+      "short": "maze-platform",
+      "description": "Find your way through the maze of platforms in this very challenging game.",
+      "url": "https://arcade.makecode.com/S81439-99919-40915-81123",
+      "img": "/images/maze_platform.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Platformer", "MakeCode", "Action"]
+    },
+    {
+      "id": 2,
+      "title": "Three Life Game",
+      "short": "three-life",
+      "description": "Every time you die, the game just keeps getting harder!",
+      "url": "https://arcade.makecode.com/S18631-63274-83437-92708",
+      "img": "/images/three_life.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"]
+    },
+    {
+      "id": 3,
+      "title": "Make Your Way",
+      "short": "make-your-way",
+      "description": "Make your way through the maze. Unlock doors and avoid the traps!",
+      "url": "https://arcade.makecode.com/S48435-60187-04035-18005",
+      "img": "/images/make_way.png",
+      "searchtags": "Puzzle MakeCode Maze",
+      "tags": ["Puzzle", "Maze", "MakeCode"]
+    },
+    {
+      "id": 3,
+      "title": "Kill the Enemy",
+      "short": "kill-enemy",
+      "description": "Jump on platforms, avoid the enemies and eat the apples.",
+      "url": "https://arcade.makecode.com/S48726-52470-04698-54183",
+      "img": "/images/kill_enemy.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Platformer", "MakeCode", "Action"]
+    }
+  ]
+}
