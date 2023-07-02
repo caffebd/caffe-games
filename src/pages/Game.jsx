@@ -17,11 +17,24 @@ export default function Game() {
   return (
     <div class="my-7">
       <Show when={myGame != {}} fallback={<p>Loading...</p>}>
-        <div class="grid grid-cols-5 gap-24 grid-rows-3  ">
-          <div class="col-span-2 row-span-full">
+        <div class="grid grid-cols-5 gap-24 grid-rows-4  ">
+          <div class="col-span-3 row-span-full">
             <Show
               when={myGame.tags.includes("MakeCode")}
-              fallback={<img src={myGame.img} alt="product image" />}
+              fallback={
+                <Show
+                  when={myGame.tags.includes("JavaScript")}
+                  fallback={<img src={myGame.img} alt="product image" />}
+                >
+                  <iframe
+                    frameborder="0"
+                    src={myGame.embedurl}
+                    allowfullscreen=""
+                    width="800"
+                    height="620"
+                  ></iframe>
+                </Show>
+              }
             >
               <iframe
                 style="width:100%;height:100%;"
@@ -39,7 +52,7 @@ export default function Game() {
             <a class="btn" href={myGame.url} target="blank">
               {myGame.tags.includes("MakeCode")
                 ? "Play at MakeCode"
-                : "Play Game"}
+                : "Play Game at itch.io"}
             </a>
           </div>
         </div>
