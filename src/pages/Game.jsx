@@ -54,6 +54,16 @@ export default function Game() {
                 ? "Play at MakeCode"
                 : "Play Game at itch.io"}
             </a>
+            <h2 class="text-xl mt-8 mb-4">Created by...</h2>
+            <div class="flex">
+              <For each={myGame.authors}>
+                {(name) => (
+                  <p class="px-2 mr-4 mt-3 rounded bg-purple-600 text-white text-lg">
+                    {name}
+                  </p>
+                )}
+              </For>
+            </div>
           </div>
         </div>
       </Show>

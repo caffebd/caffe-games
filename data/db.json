@@ -9,7 +9,8 @@
       "embedurl": "https://arcade.makecode.com/---run?id=_4hWg5gijAYoi",
       "img": "/images/maze_platform.png",
       "searchtags": "Platformer MakeCode Action",
-      "tags": ["Platformer", "MakeCode", "Action"]
+      "tags": ["Platformer", "MakeCode", "Action"],
+      "authors": ["Sayeem"]
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "embedurl": "https://arcade.makecode.com/---run?id=_PLPCe7erj6Wc",
       "img": "/images/three_life.png",
       "searchtags": "MakeCode Action",
-      "tags": ["MakeCode", "Action"]
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Mushfiq", "Shorif"]
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "embedurl": "https://arcade.makecode.com/---run?id=_gRr4iPV9E6FU",
       "img": "/images/make_way.png",
       "searchtags": "Puzzle MakeCode Maze",
-      "tags": ["Puzzle", "Maze", "MakeCode"]
+      "tags": ["Puzzle", "Maze", "MakeCode"],
+      "authors": ["Shamsina"]
     },
     {
       "id": 3,
@@ -42,7 +45,8 @@
       "embedurl": "https://arcade.makecode.com/---run?id=_H88AwyTdH4rd",
       "img": "/images/kill_enemy.png",
       "searchtags": "Platformer MakeCode Action",
-      "tags": ["Platformer", "MakeCode", "Action"]
+      "tags": ["Platformer", "MakeCode", "Action"],
+      "authors": ["Eva"]
     },
     {
       "id": 4,
@@ -53,7 +57,8 @@
       "embedurl": "https://itch.io/embed-upload/8212299?color=333333",
       "img": "/images/ufo_shooter.png",
       "searchtags": "Space JavaScript Action",
-      "tags": ["Space", "JavaScript", "Action"]
+      "tags": ["Space", "JavaScript", "Action"],
+      "authors": ["CAFFE"]
     }
   ]
 }
