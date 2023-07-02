@@ -6,6 +6,7 @@
       "short": "maze-platform",
       "description": "Find your way through the maze of platforms in this very challenging game.",
       "url": "https://arcade.makecode.com/S81439-99919-40915-81123",
+      "embedurl": "https://arcade.makecode.com/---run?id=_4hWg5gijAYoi",
       "img": "/images/maze_platform.png",
       "searchtags": "Platformer MakeCode Action",
       "tags": ["Platformer", "MakeCode", "Action"]
@@ -16,6 +17,7 @@
       "short": "three-life",
       "description": "Every time you die, the game just keeps getting harder!",
       "url": "https://arcade.makecode.com/S18631-63274-83437-92708",
+      "embedurl": "https://arcade.makecode.com/---run?id=_PLPCe7erj6Wc",
       "img": "/images/three_life.png",
       "searchtags": "MakeCode Action",
       "tags": ["MakeCode", "Action"]
@@ -26,6 +28,7 @@
       "short": "make-your-way",
       "description": "Make your way through the maze. Unlock doors and avoid the traps!",
       "url": "https://arcade.makecode.com/S48435-60187-04035-18005",
+      "embedurl": "https://arcade.makecode.com/---run?id=_gRr4iPV9E6FU",
       "img": "/images/make_way.png",
       "searchtags": "Puzzle MakeCode Maze",
       "tags": ["Puzzle", "Maze", "MakeCode"]
@@ -36,6 +39,7 @@
       "short": "kill-enemy",
       "description": "Jump on platforms, avoid the enemies and eat the apples.",
       "url": "https://arcade.makecode.com/S48726-52470-04698-54183",
+      "embedurl": "https://arcade.makecode.com/---run?id=_H88AwyTdH4rd",
       "img": "/images/kill_enemy.png",
       "searchtags": "Platformer MakeCode Action",
       "tags": ["Platformer", "MakeCode", "Action"]
