@@ -16,9 +16,11 @@ export default function Home(params) {
   return (
     <Show when={games.length > 1} fallback={<p>Loading...</p>}>
       <div class="my-4 p-2 text-xl flex items-center gap-4">
-        <h2>Search...</h2>
+        <h2 class="rounded-sm bg-orange-500 px-2 shadow-md text-white">
+          Search...
+        </h2>
         <input
-          class="my-5 rounded-md"
+          class="my-5 rounded-md shadow-md px-2"
           type="text"
           name=""
           id=""
