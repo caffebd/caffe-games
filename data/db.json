@@ -50,15 +50,15 @@
     },
     {
       "id": 4,
-      "title": "UFO Game",
-      "short": "ufo-game",
-      "description": "A basic UFO shooter",
-      "url": "https://caffebd.itch.io/kaboom-ufo",
-      "embedurl": "https://itch.io/embed-upload/8212299?color=333333",
-      "img": "/images/ufo_shooter.png",
-      "searchtags": "Space JavaScript Action",
-      "tags": ["Space", "JavaScript", "Action"],
-      "authors": ["CAFFE"]
+      "title": "Puroshkar",
+      "short": "puroshkar",
+      "description": "Platform game with a surprise!",
+      "url": "https://shanta-makes-games.itch.io/puroshkar",
+      "embedurl": "https://itch.io/embed-upload/8230224?color=333333",
+      "img": "/images/puroshkar.png",
+      "searchtags": "Space JavaScript Action Platformer",
+      "tags": ["Platformer", "Space", "JavaScript", "Action"],
+      "authors": ["Shanta"]
     }
   ]
 }
