@@ -38,7 +38,10 @@ export default function Home(params) {
                   .includes(searchTerm().toLowerCase()) ||
                 game.searchtags
                   .toLowerCase()
-                  .includes(searchTerm().toLowerCase())
+                  .includes(searchTerm().toLowerCase())||
+                  game.authorSearch
+                  .toLowerCase()
+                  .includes(searchTerm().toLocaleLowerCase())
               }
             >
               <A href={"/game/" + game.short}>

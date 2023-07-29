@@ -10,7 +10,8 @@
       "img": "/images/maze_platform.png",
       "searchtags": "Platformer MakeCode Action",
       "tags": ["Platformer", "MakeCode", "Action"],
-      "authors": ["Sayeem"]
+      "authors": ["Sayem"],
+      "authorSearch":"Sayem"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "img": "/images/three_life.png",
       "searchtags": "MakeCode Action",
       "tags": ["MakeCode", "Action"],
-      "authors": ["Mushfiq", "Shorif"]
+      "authors": ["Mushfiq", "Shorif"],
+      "authorSearch":"Mushfiq Shorif"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "img": "/images/make_way.png",
       "searchtags": "Puzzle MakeCode Maze",
       "tags": ["Puzzle", "Maze", "MakeCode"],
-      "authors": ["Shamsina"]
+      "authors": ["Shamsina"],
+      "authorSearch":"Shamsina"
     },
     {
       "id": 3,
@@ -46,7 +49,8 @@
       "img": "/images/kill_enemy.png",
       "searchtags": "Platformer MakeCode Action",
       "tags": ["Platformer", "MakeCode", "Action"],
-      "authors": ["Eva"]
+      "authors": ["Eva"],
+      "authorSearch":"Eva"
     },
     {
       "id": 4,
@@ -58,7 +62,21 @@
       "img": "/images/puroshkar.png",
       "searchtags": "Space JavaScript Action Platformer",
       "tags": ["Platformer", "Space", "JavaScript", "Action"],
-      "authors": ["Shanta"]
+      "authors": ["Shanta"],
+      "authorSearch":"Shanta"
+    },
+    {
+      "id": 5,
+      "title": "Dino button",
+      "short": "dino-button",
+      "description": "Help the dinosaur press the button to escape the maze. A game made for the MakeCode Arcade Prehistoric Game Jam.",
+      "url": "https://arcade.makecode.com/S58499-28409-67513-26487",
+      "embedurl": "https://arcade.makecode.com/---run?id=S64466-91746-06272-92820",
+      "img": "/images/dino_button.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Platformer", "MakeCode", "Action"],
+      "authors": ["Mushfiq"],
+      "authorSearch":"Mushfiq"
     }
   ]
 }
