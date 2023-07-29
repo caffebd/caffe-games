@@ -77,6 +77,19 @@
       "tags": ["Platformer", "MakeCode", "Action"],
       "authors": ["Mushfiq"],
       "authorSearch":"Mushfiq"
+    },
+    {
+      "id": 6,
+      "title": "Dinosaur Hunting Game",
+      "short": "dino-hunt",
+      "description": "How long can you survive the waves of dinosaurs? A game made for the MakeCode Arcade Prehistoric Game Jam.",
+      "url": "https://arcade.makecode.com/S75139-85271-35208-66455",
+      "embedurl": "https://arcade.makecode.com/---run?id=S75139-85271-35208-66455",
+      "img": "/images/dino_hunt.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Endless shooter", "MakeCode", "Action"],
+      "authors": ["Sayem"],
+      "authorSearch":"Sayem"
     }
   ]
 }
