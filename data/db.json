@@ -90,6 +90,19 @@
       "tags": ["Endless shooter", "MakeCode", "Action"],
       "authors": ["Sayem"],
       "authorSearch":"Sayem"
+    },
+    {
+      "id": 7,
+      "title": "Player vs Dinosaur",
+      "short": "player-v-dino",
+      "description": "Collect 15 keys to escape? A game made for the MakeCode Arcade Prehistoric Game Jam.",
+      "url": "https://arcade.makecode.com/S03528-76201-18358-43020",
+      "embedurl": "https://arcade.makecode.com/---run?id=S03528-76201-18358-43020",
+      "img": "/images/player_v_dino.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Platformer", "MakeCode", "Action"],
+      "authors": ["Gobindo"],
+      "authorSearch":"Gobindo"
     }
   ]
 }
