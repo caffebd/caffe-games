@@ -103,6 +103,19 @@
       "tags": ["Platformer", "MakeCode", "Action"],
       "authors": ["Gobindo"],
       "authorSearch":"Gobindo"
+    },
+    {
+      "id": 8,
+      "title": "Strange Adventure",
+      "short": "strange-adventure",
+      "description": "Avoid enemies and spikes to make it through the game. A game made for the MakeCode Arcade Prehistoric Game Jam.",
+      "url": "https://arcade.makecode.com/S34094-21292-22109-55013",
+      "embedurl": "https://arcade.makecode.com/---run?id=S34094-21292-22109-55013",
+      "img": "/images/strange_adventure.png",
+      "searchtags": "Platformer MakeCode Action",
+      "tags": ["Platformer", "MakeCode", "Action"],
+      "authors": ["Shorif"],
+      "authorSearch":"Shorif"
     }
   ]
 }
