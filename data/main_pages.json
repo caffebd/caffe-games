@@ -1,0 +1,25 @@
+{
+    "mainPages": [
+      {
+        "id": 1,
+        "title": "Original Games",
+        "short": "originals",
+        "description": "Original games created by CAFFE students.",
+        "img": "/images/maze_platform.png"
+      },
+      {
+        "id": 2,
+        "title": "Game Jams",
+        "short": "jams",
+        "description": "Games created for game jams.",
+        "img": "/images/dino_hunt.png"
+      },
+      {
+        "id": 3,
+        "title": "Vampire Survivors",
+        "short": "vs",
+        "description": "CAFFE students' played and studied Vampire Survivors by Poncle Games. They made their own versions of the game using Microsoft MakeCode Arcade.",
+        "img": "/images/mushfiq_vampire.png"
+      }
+    ]
+}

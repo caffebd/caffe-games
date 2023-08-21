@@ -17,8 +17,8 @@ export default function Game() {
   return (
     <div class="my-7">
       <Show when={myGame != {}} fallback={<p>Loading...</p>}>
-        <div class="grid grid-cols-5 gap-24 grid-rows-4  ">
-          <div class="col-span-3 row-span-full">
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-28 md:gap-22 grid-rows-6 md:grid-rows-4  ">
+          <div class="col-span-2 row-span-full md:col-span-3">
             <Show
               when={myGame.tags.includes("MakeCode")}
               fallback={
@@ -46,7 +46,7 @@ export default function Game() {
             </Show>
           </div>
 
-          <div class="col-span-2">
+          <div class="col-span-2 px-12">
             <h2 class="text-3xl font-bold mb-7">{myGame.title}</h2>
             <p class="text-xl mb-7">{myGame.description}</p>
             <a class="btn" href={myGame.url} target="blank">

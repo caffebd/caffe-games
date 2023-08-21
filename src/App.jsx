@@ -5,6 +5,9 @@ import banner from "./assets/caffe_games_banner.png";
 import Home from "./pages/Home";
 import Cart from "./pages/Cart";
 import Game from "./pages/Game";
+import Originals from "./pages/Originals";
+import Jams from "./pages/Jams";
+import VS from "./pages/Vs";
 function App() {
   const [darkTheme, setDarkTheme] = createSignal(false);
 
@@ -40,6 +43,9 @@ function App() {
 
       <Routes>
         <Route path="/" component={Home} />
+        <Route path="/originals" component={Originals} />
+        <Route path="/jams" component={Jams} />
+        <Route path="/vs" component={VS} />
         <Route path="/cart" component={Cart} />
         <Route path="/game/:short" component={Game} />
       </Routes>
