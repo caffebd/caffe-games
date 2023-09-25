@@ -195,6 +195,79 @@
       "tags": ["MakeCode", "Action"],
       "authors": ["Hasib"],
       "authorSearch":"Hasib"
+    },
+
+
+    {
+      "id": 14,
+      "title": "Ten Minute Game by Eva",
+      "short": "ten-minute-eva",
+      "page": "ten-minute",
+      "description": "Eva's game made in just ten minutes.",
+      "url": "https://arcade.makecode.com/S61247-98184-26657-02570",
+      "embedurl": "https://arcade.makecode.com/---run?id=S61247-98184-26657-02570",
+      "img": "/images/ten_minute_eva.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Eva"],
+      "authorSearch":"Eva"
+    },
+    {
+      "id": 15,
+      "title": "Ten Minute by Sayem",
+      "short": "ten-minute-sayem",
+      "page": "ten-minute",
+      "description": "Sayem's game made in just ten minutes.",
+      "url": "https://arcade.makecode.com/S29704-70686-57782-92638",
+      "embedurl": "https://arcade.makecode.com/---run?id=S29704-70686-57782-92638",
+      "img": "/images/ten_minute_sayem.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Sayem"],
+      "authorSearch":"Sayem"
+    },
+    {
+      "id": 16,
+      "title": "Ten Minute by Hasib",
+      "short": "ten-minute-hasib",
+      "page": "ten-minute",
+      "description": "Hasib's game made in just ten minutes.",
+      "url": "https://arcade.makecode.com/S69999-17243-27049-04840",
+      "embedurl": "https://arcade.makecode.com/---run?id=S69999-17243-27049-04840",
+      "img": "/images/ten_minute_hasib.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Hasib"],
+      "authorSearch":"Hasib"
+    },
+    {
+      "id": 17,
+      "title": "Ten Minute by Shorif",
+      "short": "ten-minute-shorif",
+      "page": "ten-minute",
+      "description": "Shorif's game made in just ten minutes.",
+      "url": "https://arcade.makecode.com/14896-13877-51344-41411",
+      "embedurl": "https://arcade.makecode.com/---run?id=14896-13877-51344-41411",
+      "img": "/images/ten_minute_shorif.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Shorif"],
+      "authorSearch":"Shorif"
+    },
+    {
+      "id": 18,
+      "title": "Ten Minute Game by Mushfiq",
+      "short": "ten-minute-mushfiq",
+      "page": "ten-minute",
+      "description": "Mushfiq's game made in just ten minutes.",
+      "url": "https://arcade.makecode.com/S36319-88096-50640-49375",
+      "embedurl": "https://arcade.makecode.com/---run?id=S36319-88096-50640-49375",
+      "img": "/images/ten_minute_mushfiq.png",
+      "searchtags": "MakeCode Action",
+      "tags": ["MakeCode", "Action"],
+      "authors": ["Mushfiq"],
+      "authorSearch":"Mushfiq"
     }
+
   ]
 }

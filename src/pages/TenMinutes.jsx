@@ -8,7 +8,7 @@ import { A } from "@solidjs/router";
 //   return res.json();
 // };
 
-export default function Originals(params) {
+export default function TenMinutes(params) {
   //const [games] = createResource(fetchGames);
 
   const [searchTerm, setSearchTerm] = createSignal("");
@@ -17,7 +17,7 @@ export default function Originals(params) {
     <Show when={games.length > 1} fallback={<p>Loading...</p>}>
       <div class="my-4 p-2 text-xl flex items-center gap-4">
       <div class="bg-white py-1 px-2 text-left rounded-sm shadow-md text-green-800">
-        Original games by CAFFE students
+       Games made in ten minutes by CAFFE students.
       </div>
         <h2 class="rounded-sm bg-orange-500 py-1 px-2 shadow-md text-white">
           Search...
@@ -33,7 +33,7 @@ export default function Originals(params) {
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 my-4">
         <For each={games}>
           {(game) => (
-            game.page.includes("original") ?
+            game.page.includes("ten-minute") ?
             <Show
               when={
                 

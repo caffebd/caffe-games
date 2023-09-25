@@ -20,6 +20,13 @@
         "short": "vs",
         "description": "CAFFE students' played and studied Vampire Survivors by Poncle Games. They made their own versions of the game using Microsoft MakeCode Arcade.",
         "img": "/images/mushfiq_vampire.png"
+      },
+      {
+        "id": 4,
+        "title": "Games Made in 10 Minutes",
+        "short": "ten-minute",
+        "description": "Can you make a game in just 10 minutes? Out students tried. They were given a random setting and game mechanic, then they had just 10 minutes to make a whole game.",
+        "img": "/images/ten_minute_sayem.png"
       }
     ]
 }
