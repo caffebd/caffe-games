@@ -267,6 +267,20 @@
       "tags": ["MakeCode", "Action"],
       "authors": ["Mushfiq"],
       "authorSearch":"Mushfiq"
+    },
+    {
+      "id": 19,
+      "title": "Stealth Game by Hasib",
+      "short": "stealth-hasib",
+      "page": "stealth",
+      "description": "Hasib's stealth game. Sneak past the enemies without getting too close.",
+      "url": "https://arcade.makecode.com/S57955-12775-38633-01093",
+      "embedurl": "https://arcade.makecode.com/---run?id=S57955-12775-38633-01093",
+      "img": "/images/hasib_stealth.png",
+      "searchtags": "MakeCode Stealth",
+      "tags": ["MakeCode", "Stealth"],
+      "authors": ["Hasib"],
+      "authorSearch":"Hasib"
     }
 
   ]

@@ -9,6 +9,7 @@ import Originals from "./pages/Originals";
 import Jams from "./pages/Jams";
 import VS from "./pages/Vs";
 import TenMinutes from "./pages/TenMinutes";
+import Stealth from "./pages/Stealth";
 function App() {
   const [darkTheme, setDarkTheme] = createSignal(false);
 
@@ -49,6 +50,7 @@ function App() {
         <Route path="/vs" component={VS} />
         <Route path="/cart" component={Cart} />
         <Route path="/ten-minute" component={TenMinutes} />
+        <Route path="/stealth" component={Stealth} />
         <Route path="/game/:short" component={Game} />
       </Routes>
     </div>

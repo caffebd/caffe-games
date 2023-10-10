@@ -27,6 +27,13 @@
         "short": "ten-minute",
         "description": "Can you make a game in just 10 minutes? Out students tried. They were given a random setting and game mechanic, then they had just 10 minutes to make a whole game.",
         "img": "/images/ten_minute_sayem.png"
+      },
+      {
+        "id": 5,
+        "title": "Stealth Games",
+        "short": "stealth",
+        "description": "Stealth games are games where you try to sneak around and avoid being seen. Can you get through these mazes without being spotted by an enemy?",
+        "img": "/images/hasib_stealth.png"
       }
     ]
 }
