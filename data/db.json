@@ -281,6 +281,20 @@
       "tags": ["MakeCode", "Stealth"],
       "authors": ["Hasib"],
       "authorSearch":"Hasib"
+    },
+    {
+      "id": 20,
+      "title": "Stealth Game by Eva",
+      "short": "stealth-eva",
+      "page": "stealth",
+      "description": "Eva's stealth game. Sneak past the enemies without getting too close.",
+      "url": "https://arcade.makecode.com/S81354-89450-92044-31855",
+      "embedurl": "https://arcade.makecode.com/---run?id=S81354-89450-92044-31855",
+      "img": "/images/eva_stealth.png",
+      "searchtags": "MakeCode Stealth",
+      "tags": ["MakeCode", "Stealth"],
+      "authors": ["Eva"],
+      "authorSearch":"Eva"
     }
 
   ]
