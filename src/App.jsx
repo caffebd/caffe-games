@@ -11,6 +11,7 @@ import VS from "./pages/Vs";
 import TenMinutes from "./pages/TenMinutes";
 import Stealth from "./pages/Stealth";
 import All from "./pages/All";
+import Privacy from "./pages/Privacy";
 function App() {
   const [darkTheme, setDarkTheme] = createSignal(false);
 
@@ -61,6 +62,7 @@ function App() {
         <Route path="/stealth" component={Stealth} />
         <Route path="/all" component={All} />
         <Route path="/game/:short" component={Game} />
+        <Route path="/privacy" component={Privacy} />
       </Routes>
     </div>
   );
