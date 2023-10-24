@@ -295,6 +295,20 @@
       "tags": ["MakeCode", "Stealth"],
       "authors": ["Eva"],
       "authorSearch":"Eva"
+    },
+    {
+      "id": 21,
+      "title": "আমি স্কুলে যাচ্ছি by Shanta",
+      "short": "school-shanta",
+      "page": "original",
+      "description":"Shanta's maze, puzzle game for young children. Make your way through the mazes by collecting items and solving puzzles. A game made in KaboomJS.",
+      "url": "https://caffebd.itch.io/to-school",
+      "embedurl": "https://itch.io/embed-upload/8957114?color=dddddd",
+      "img": "/images/shanta_school.png",
+      "searchtags": "KaboomJS JavaScript Puzzle",
+      "tags": ["KaboomJS", "JavaScript", "Puzzle"],
+      "authors": ["Shanta"],
+      "authorSearch":"Shanta"
     }
 
   ]
