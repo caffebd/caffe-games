@@ -64,6 +64,9 @@
       "page": "original",
       "url": "https://shanta-makes-games.itch.io/puroshkar",
       "embedurl": "https://itch.io/embed-upload/8230622?color=333333",
+      "embedWidth":800,
+      "embedheight":600,
+      "playStore":"",
       "img": "/images/puroshkar.png",
       "searchtags": "Space JavaScript Action Platformer",
       "tags": ["Platformer", "Space", "JavaScript", "Action"],
@@ -276,6 +279,8 @@
       "description": "Hasib's stealth game. Sneak past the enemies without getting too close.",
       "url": "https://arcade.makecode.com/S57955-12775-38633-01093",
       "embedurl": "https://arcade.makecode.com/---run?id=S57955-12775-38633-01093",
+      "embedWidth":800,
+      "embedheight":600,
       "img": "/images/hasib_stealth.png",
       "searchtags": "MakeCode Stealth",
       "tags": ["MakeCode", "Stealth"],
@@ -290,6 +295,8 @@
       "description": "Eva's stealth game. Sneak past the enemies without getting too close.",
       "url": "https://arcade.makecode.com/S81354-89450-92044-31855",
       "embedurl": "https://arcade.makecode.com/---run?id=S81354-89450-92044-31855",
+      "embedWidth":800,
+      "embedheight":600,
       "img": "/images/eva_stealth.png",
       "searchtags": "MakeCode Stealth",
       "tags": ["MakeCode", "Stealth"],
@@ -304,12 +311,33 @@
       "description":"Shanta's maze, puzzle game for young children. Make your way through the mazes by collecting items and solving puzzles. A game made in KaboomJS.",
       "url": "https://caffebd.itch.io/to-school",
       "embedurl": "https://itch.io/embed-upload/8957114?color=dddddd",
+      "embedWidth":800,
+      "embedheight":600,
+      "playStore":"",
       "img": "/images/shanta_school.png",
       "searchtags": "KaboomJS JavaScript Puzzle",
       "tags": ["KaboomJS", "JavaScript", "Puzzle"],
       "authors": ["Shanta"],
       "authorSearch":"Shanta"
+    },
+    {
+      "id": 22,
+      "title": "একটানা (Non-Stop)",
+      "short": "ektana",
+      "page": "original",
+      "description":"Mushfiq, Sayem and Shorif made their first game in Godot. An action, rhythm game called Ektana (Non-stop). The game is available on itch.io as well as the Google Play Store.",
+      "url": "https://caffebd.itch.io/ektana",
+      "embedurl": "https://itch.io/embed-upload/9006462?color=3e9aee",
+      "embedWidth":360,
+      "embedheight":560,
+      "playStore":"https://play.google.com/store/apps/details?id=com.caffebd.throwballdev&hl=en&gl=US",
+      "img": "/images/ektana_menu.png",
+      "searchtags": "Godot Action Rhythm Mobile Itch Google Play",
+      "tags": ["Godot", "Action", "Rhythm", "Mobile", "Itch", "Play"],
+      "authors": ["Mushfiq", "Sayem", "Shorif"],
+      "authorSearch":"Mushfiq Shorif Sayem"
     }
 
   ]
 }
+

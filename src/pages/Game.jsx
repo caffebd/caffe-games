@@ -23,15 +23,15 @@ export default function Game() {
               when={myGame.tags.includes("MakeCode")}
               fallback={
                 <Show
-                  when={myGame.tags.includes("JavaScript")}
+                  when={myGame.tags.includes("JavaScript") || myGame.tags.includes("Itch")}
                   fallback={<img src={myGame.img} alt="product image" />}
                 >
                   <iframe
                     frameborder="0"
                     src={myGame.embedurl}
-                    allowfullscreen=""
-                    width="800"
-                    height="620"
+                    allowfullscreen="allowfullscreen"
+                    width={myGame.embedWidth}
+                    height={myGame.embedheight}
                   ></iframe>
                 </Show>
               }
@@ -54,6 +54,13 @@ export default function Game() {
                 ? "Play at MakeCode"
                 : "Play Game at itch.io"}
             </a>
+            <div class="w-48 -ml-4">
+            <Show
+              when={myGame.tags.includes("Play")}
+              fallback={  <div></div>}>
+                <a href='https://play.google.com/store/apps/details?id=com.caffebd.throwballdev&hl=en&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
+              </Show>
+              </div>
             <h2 class="text-xl mt-8 mb-4">Created by...</h2>
             <div class="flex">
               <For each={myGame.authors}>
