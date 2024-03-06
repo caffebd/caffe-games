@@ -336,6 +336,23 @@
       "tags": ["Godot", "Action", "Rhythm", "Mobile", "Itch", "Play"],
       "authors": ["Mushfiq", "Sayem", "Shorif"],
       "authorSearch":"Mushfiq Shorif Sayem"
+    },
+    {
+      "id": 23,
+      "title": "Top Down Shooters",
+      "short": "top-down",
+      "page": "original",
+      "description":"Sayem made three examples of top down shooters in Godot. A target shooting game, a battle against computer enemies and a two player co-op.",
+      "url": "https://sayem-caffe.itch.io/top-down",
+      "embedurl": "https://itch.io/embed-upload/9327458?color=3f2832",
+      "embedWidth":800,
+      "embedheight":600,
+      "playStore":"",
+      "img": "/images/sayem_top_down.png",
+      "searchtags": "Godot Action Itch",
+      "tags": ["Godot", "Action"],
+      "authors": ["Sayem"],
+      "authorSearch":"Sayem"
     }
 
   ]

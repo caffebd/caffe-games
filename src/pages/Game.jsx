@@ -23,7 +23,7 @@ export default function Game() {
               when={myGame.tags.includes("MakeCode")}
               fallback={
                 <Show
-                  when={myGame.tags.includes("JavaScript") || myGame.tags.includes("Itch")}
+                  when={myGame.tags.includes("JavaScript") || myGame.tags.includes("Itch") }
                   fallback={<img src={myGame.img} alt="product image" />}
                 >
                   <iframe
