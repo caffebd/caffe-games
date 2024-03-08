@@ -344,13 +344,13 @@
       "page": "original",
       "description":"Sayem made three examples of top down shooters in Godot. A target shooting game, a battle against computer enemies and a two player co-op.",
       "url": "https://sayem-caffe.itch.io/top-down",
-      "embedurl": "https://itch.io/embed-upload/9327458?color=3f2832",
-      "embedWidth":800,
+      "embedurl": "https://itch.io/embed-upload/9861084?color=333333",
+      "embedWidth":1024,
       "embedheight":600,
       "playStore":"",
       "img": "/images/sayem_top_down.png",
       "searchtags": "Godot Action Itch",
-      "tags": ["Godot", "Action"],
+      "tags": ["Godot", "Action", "Itch"],
       "authors": ["Sayem"],
       "authorSearch":"Sayem"
     }
