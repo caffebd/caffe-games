@@ -353,6 +353,23 @@
       "tags": ["Godot", "Action", "Itch"],
       "authors": ["Sayem"],
       "authorSearch":"Sayem"
+    },
+    {
+      "id": 24,
+      "title": "Space Run",
+      "short": "spacerun",
+      "page": "jam",
+      "description":"An entry for the Godot Wild Gam #69. Made by Mushfiq, Rabiul, Sayem and Shorif. Help the astronaut get back to their mothership.",
+      "url": "https://retrorabiul.itch.io/spacerun",
+      "embedurl": "https://itch.io/embed-upload/10458162?color=333333",
+      "embedWidth":1024,
+      "embedheight":600,
+      "playStore":"",
+      "img": "/images/spacerun.png",
+      "searchtags": "Godot Platformer Itch",
+      "tags": ["Godot", "Platformer", "Itch"],
+      "authors": ["Mushfiq", "Sayem", "Shorif", "Rabiul"],
+      "authorSearch":"Mushfiq Shorif Sayem Rabiul"
     }
 
   ]
