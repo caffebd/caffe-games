@@ -370,6 +370,23 @@
       "tags": ["Godot", "Platformer", "Itch"],
       "authors": ["Mushfiq", "Sayem", "Shorif", "Rabiul"],
       "authorSearch":"Mushfiq Shorif Sayem Rabiul"
+    },
+    {
+      "id": 25,
+      "title": "At Night",
+      "short": "atnight",
+      "page": "jam",
+      "description":"An entry for the Godot Wild Gam #74. Made by Rabiul. Survive the night with your unwelcome guest.",
+      "url": "https://retrorabiul.itch.io/at-night",
+      "embedurl": "https://itch.io/embed-upload/11772304?color=544848",
+      "embedWidth":800,
+      "embedheight":470,
+      "playStore":"",
+      "img": "/images/at_night.png",
+      "searchtags": "Godot Platformer Itch",
+      "tags": ["Godot", "Platformer", "Itch"],
+      "authors": ["Rabiul"],
+      "authorSearch":"Rabiul"
     }
 
   ]
