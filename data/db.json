@@ -421,6 +421,23 @@
       "tags": ["Godot", "Platformer", "Itch"],
       "authors": ["Rabiul"],
       "authorSearch":"Rabiul"
+    },
+    {
+      "id": 28,
+      "title": "Elephant Rescue",
+      "short": "elephantrescue",
+      "page": "original",
+      "description":"Aseprite students designed the game and created the art while coding students developed the game in Godot.",
+      "url": "https://caffebd.itch.io/elephant-rescue",
+      "embedurl": "https://itch.io/embed-upload/12531912?color=3c6f4b",
+      "embedWidth":800,
+      "embedheight":470,
+      "playStore":"",
+      "img": "/images/ele-rescue.png",
+      "searchtags": "Godot Platformer Itch",
+      "tags": ["Godot", "Platformer", "Itch"],
+      "authors": ["Sayem, Mushqif"],
+      "authorSearch":"Sayem Mushfiq"
     }
 
   ]
